@@ -1,0 +1,31 @@
+{
+  "name": "nodeblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacken006/NodeBlog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog",
+    "nodejs"
+  ],
+  "author": "truongnq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacken006/NodeBlog/issues"
+  },
+  "homepage": "https://github.com/hacken006/NodeBlog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
